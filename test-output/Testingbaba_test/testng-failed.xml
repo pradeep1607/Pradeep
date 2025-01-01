@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testingbaba_test]" guice-stage="DEVELOPMENT">
+  <test name="Testbox_test(failed)">
+    <classes>
+      <class name="testingbaba_tests.Login_Test">
+        <methods>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Login_Test -->
+      <class name="testingbaba_tests.TestBox_Test">
+        <methods>
+          <include name="filldetails"/>
+          <include name="clickon_elements"/>
+          <include name="getLaunchUrl_testingbaba"/>
+          <include name="clickontextbox"/>
+        </methods>
+      </class> <!-- testingbaba_tests.TestBox_Test -->
+    </classes>
+  </test> <!-- Testbox_test(failed) -->
+</suite> <!-- Failed suite [Testingbaba_test] -->

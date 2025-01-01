@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testingbaba_Suite]" guice-stage="DEVELOPMENT">
+  <test name="CheckBox_test(failed)">
+    <classes>
+      <class name="testingbaba_tests.TestBox_Test">
+        <methods>
+          <include name="closeWindow"/>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.TestBox_Test -->
+      <class name="testingbaba_tests.Link_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="closeWindow"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Link_Test -->
+      <class name="testingbaba_tests.CheckBox_test">
+        <methods>
+          <include name="clickonimpressive"/>
+          <include name="getResultAnalysis"/>
+          <include name="closeWindow"/>
+          <include name="clickonmobilecheckbox"/>
+          <include name="clickonRadiobutton"/>
+          <include name="clickoncheckbox"/>
+          <include name="clickondesktopbox"/>
+          <include name="clickonlaptopcheckbox"/>
+          <include name="clickonyes"/>
+          <include name="clickonElements"/>
+          <include name="clickonno"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.CheckBox_test -->
+      <class name="testingbaba_tests.Upload_download_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="CloseWindow"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Upload_download_Test -->
+      <class name="testingbaba_tests.Login_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_testingbaba"/>
+          <include name="CloseWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Login_Test -->
+      <class name="testingbaba_tests.WebtableTest">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="CloseWindow"/>
+          <include name="getLaunchUrl_tesingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.WebtableTest -->
+      <class name="testingbaba_tests.DynamicProperties_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+          <include name="closeWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.DynamicProperties_Test -->
+      <class name="testingbaba_tests.Buttons_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+          <include name="closeWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Buttons_Test -->
+    </classes>
+  </test> <!-- CheckBox_test(failed) -->
+  <test name="WebtableTest(failed)">
+    <classes>
+      <class name="testingbaba_tests.TestBox_Test">
+        <methods>
+          <include name="closeWindow"/>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.TestBox_Test -->
+      <class name="testingbaba_tests.Link_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="closeWindow"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Link_Test -->
+      <class name="testingbaba_tests.CheckBox_test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="closeWindow"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.CheckBox_test -->
+      <class name="testingbaba_tests.Upload_download_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="CloseWindow"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Upload_download_Test -->
+      <class name="testingbaba_tests.Login_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_testingbaba"/>
+          <include name="CloseWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Login_Test -->
+      <class name="testingbaba_tests.WebtableTest">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="clickonwebElements"/>
+          <include name="verifyupdatename"/>
+          <include name="CloseWindow"/>
+          <include name="filldetails"/>
+          <include name="updateName_email"/>
+          <include name="verifyupdateEmail"/>
+          <include name="getLaunchUrl_tesingbaba"/>
+          <include name="verifyemailid"/>
+          <include name="clickonWebtable"/>
+        </methods>
+      </class> <!-- testingbaba_tests.WebtableTest -->
+      <class name="testingbaba_tests.DynamicProperties_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+          <include name="closeWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.DynamicProperties_Test -->
+      <class name="testingbaba_tests.Buttons_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+          <include name="closeWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Buttons_Test -->
+    </classes>
+  </test> <!-- WebtableTest(failed) -->
+  <test name="Link_Test(failed)">
+    <classes>
+      <class name="testingbaba_tests.Link_Test">
+        <methods>
+          <include name="Toverify_Unauthorized"/>
+          <include name="getResultAnalysis"/>
+          <include name="ToVerify_Moved"/>
+          <include name="ToVerify_BadRequest"/>
+          <include name="ToVerify_Created"/>
+          <include name="Toverify_NotFound"/>
+          <include name="closeWindow"/>
+          <include name="ToVerify_NoContent"/>
+          <include name="ToVerify_Forbidden"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Link_Test -->
+      <class name="testingbaba_tests.TestBox_Test">
+        <methods>
+          <include name="closeWindow"/>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.TestBox_Test -->
+      <class name="testingbaba_tests.CheckBox_test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="closeWindow"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.CheckBox_test -->
+      <class name="testingbaba_tests.Upload_download_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="CloseWindow"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Upload_download_Test -->
+      <class name="testingbaba_tests.Login_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_testingbaba"/>
+          <include name="CloseWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Login_Test -->
+      <class name="testingbaba_tests.WebtableTest">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="CloseWindow"/>
+          <include name="getLaunchUrl_tesingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.WebtableTest -->
+      <class name="testingbaba_tests.DynamicProperties_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+          <include name="closeWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.DynamicProperties_Test -->
+      <class name="testingbaba_tests.Buttons_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+          <include name="closeWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Buttons_Test -->
+    </classes>
+  </test> <!-- Link_Test(failed) -->
+  <test name="Upload_download_Test(failed)">
+    <classes>
+      <class name="testingbaba_tests.TestBox_Test">
+        <methods>
+          <include name="closeWindow"/>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.TestBox_Test -->
+      <class name="testingbaba_tests.Link_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="closeWindow"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Link_Test -->
+      <class name="testingbaba_tests.CheckBox_test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="closeWindow"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.CheckBox_test -->
+      <class name="testingbaba_tests.Upload_download_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="CloseWindow"/>
+          <include name="getLaunchUrl_testingbaba"/>
+          <include name="clickonElements"/>
+          <include name="clickonselectfile"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Upload_download_Test -->
+      <class name="testingbaba_tests.Login_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_testingbaba"/>
+          <include name="CloseWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Login_Test -->
+      <class name="testingbaba_tests.WebtableTest">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="CloseWindow"/>
+          <include name="getLaunchUrl_tesingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.WebtableTest -->
+      <class name="testingbaba_tests.DynamicProperties_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+          <include name="closeWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.DynamicProperties_Test -->
+      <class name="testingbaba_tests.Buttons_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+          <include name="closeWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Buttons_Test -->
+    </classes>
+  </test> <!-- Upload_download_Test(failed) -->
+  <test name="DynamicProperties_Test(failed)">
+    <classes>
+      <class name="testingbaba_tests.TestBox_Test">
+        <methods>
+          <include name="closeWindow"/>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.TestBox_Test -->
+      <class name="testingbaba_tests.Link_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="closeWindow"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Link_Test -->
+      <class name="testingbaba_tests.CheckBox_test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="closeWindow"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.CheckBox_test -->
+      <class name="testingbaba_tests.Upload_download_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="CloseWindow"/>
+          <include name="getLaunchUrl_testingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Upload_download_Test -->
+      <class name="testingbaba_tests.Login_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_testingbaba"/>
+          <include name="CloseWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Login_Test -->
+      <class name="testingbaba_tests.WebtableTest">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="CloseWindow"/>
+          <include name="getLaunchUrl_tesingbaba"/>
+        </methods>
+      </class> <!-- testingbaba_tests.WebtableTest -->
+      <class name="testingbaba_tests.DynamicProperties_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="ToVerify_Practice"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+          <include name="ToVerify_Closebtn"/>
+          <include name="closeWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.DynamicProperties_Test -->
+      <class name="testingbaba_tests.Buttons_Test">
+        <methods>
+          <include name="getResultAnalysis"/>
+          <include name="getLaunchUrl_Testingbaba"/>
+          <include name="closeWindow"/>
+        </methods>
+      </class> <!-- testingbaba_tests.Buttons_Test -->
+    </classes>
+  </test> <!-- DynamicProperties_Test(failed) -->
+</suite> <!-- Failed suite [Testingbaba_Suite] -->

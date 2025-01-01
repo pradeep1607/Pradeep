@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Testingbaba_Suite">
+  <test  name="Login_test" enabled ="true">
+    <classes>
+      <class name="testingbaba_tests.Login_Test"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  <test name="Testbox_test" enabled="true">
+  <classes>
+  <class name="testingbaba_tests.TestBox_Test"/>
+  
+  </classes>
+   
+  
+  </test> 
+  <test name="CheckBox_test" enabled="true">
+  <classes>
+  <class name="testingbaba_tests.CheckBox_test"/>
+  
+  </classes>
+   
+  
+  </test>
+  
+  <test name="WebtableTest" enabled="true">
+  <classes>
+  <class name="testingbaba_tests.WebtableTest"/>
+  
+  </classes>
+   
+  
+  </test>
+  
+  <test name="Buttons_Test" enabled="true">
+  <classes>
+  <class name="testingbaba_tests.Buttons_Test"/>
+  
+  </classes>
+  
+ 
+ 
+ </test>
+  
+  <test name="Link_Test" enabled="true">
+  <classes>
+  <class name="testingbaba_tests.Link_Test"/>
+  
+  </classes> 
+  
+  
+   </test>
+  <test name="Upload_download_Test" enabled="true">
+  <classes>
+  <class name="testingbaba_tests.Upload_download_Test"/>
+  
+  </classes>
+  
+  
+  
+  </test>
+  
+  <test name="DynamicProperties_Test" enabled="true">
+  <classes>
+  <class name="testingbaba_tests.DynamicProperties_Test"/>
+  
+  </classes> 
+  
+  </test>
+  
+   
+</suite> <!-- Suite -->
+
+
+
+
